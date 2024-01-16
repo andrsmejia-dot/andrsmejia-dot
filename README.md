@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrsmejia-dot
 - 👀 I’m interested in Web design, Mobile applications, Software developer.
-- 🌱 I’m currently learning C#, Angular.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me - > andres_mejiac@hotmail.com
 
 <!---
